@@ -23,7 +23,7 @@ The project leverages the following technologies:
   - Docker (///For containerization///)
   - Composer (///For PHP dependency management///)
 
-### Versioning
+### //Versioning//
 
 | Docker Tag | GitHub Release | Nginx Version | PHP Version |Ubuntu Version|
 |-----|-------|-----|--------|--------|
