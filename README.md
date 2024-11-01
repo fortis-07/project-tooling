@@ -20,8 +20,8 @@ The project leverages the following technologies:
   - CSS
   - Tailwind CSS (Utility-first CSS framework)
 - **Other:**
-  - Docker (For containerization///)
-  - Composer (For PHP dependency management///)
+  - Docker (///For containerization///)
+  - Composer (///For PHP dependency management///)
 
 ### Versioning
 
